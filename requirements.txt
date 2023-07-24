@@ -1,2 +1,0 @@
-paho-mqtt==1.6.1
-tinydb==4.8.0
